@@ -1,43 +1,7 @@
-.stretch{
-    color:rgb(189, 62, 126);
-    text-shadow:2px 2px white ;
-    margin-top:50px ;
-    margin-bottom:20px ;
-    cursor:pointer;
-    font-weight:bolder;
-    font-size:40px;
-    transition:0.30s;
-    border-radius:3px;
-    text-align:center;
-   font-family: cursive;
-    border:none;
-    
-}
 
-.shadow{
-    margin-top:20px;
-    background-color:rgb(34, 245, 34);
-    padding-left:10px ;
-    padding-right:10px ;
-    padding-top:10px ;
-    padding-bottom:10px ;
-    border:none;
-    border-radius:3px;
-    font-weight:bold;
-    font-size:20px;
-    transition:0.30s;
-    cursor:pointer;
-    transition:0.35s;
-    box-shadow:3px 2px 10px rgb(139, 127, 127)
-    
-}
-.shadow:active{
-    box-shadow:0px 0px 0px
-}
+
 .back{
     margin-top:40px;
-
-
 }
 
 .next{
@@ -51,7 +15,7 @@
 
 }
 .im{
-    background-size:cover;
+    background-position: top;  
 }
 .susi{
     font-size:100px;
@@ -60,22 +24,29 @@
     position: center;
     color:rgb(221, 35, 66);
     text-align: center;
+  
 }
 .back1{
-    margin-left: 20;
-    border-color:none;
+    margin-left: 20px;
+    border-color:blue;
     border-width:3px;
     object-fit:contain;
     object-position: center;
-    width:300px;
+    width:400px;
     height:300px;
-    border-width: 2px;
-   
+    
 }
 .search{
     font-size:20px;
     margin-left:30px;
     border-radius:3px;
     height: 40px;
-  
+}
+.pushpa2{
+    margin:50px;
+    color: rgb(211, 48, 72);
+    font-size:40px;
+    font-weight:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
 }
