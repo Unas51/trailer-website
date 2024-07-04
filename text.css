@@ -1,11 +1,14 @@
 .login{
-    height: 1500px;
-    width: 1600px;
-    background-position: top;
+    height: 1650px;
+    width: 3000px;
+    background-position: center;
     background-repeat: no-repeat;
+    background-size: 3200px 1780px;
 
     
 }
+
+
 .edi{
     font-size: 30px;
     color: rgb(255, 255, 255);
@@ -14,18 +17,17 @@
     text-align: center;
     object-fit: contain;
    margin-top: 100px;
-    border-color: rgb(255, 7, 7);
-    width: 450px;
-    height: 400px;
+    border-color: rgb(0, 0, 0);
+    
     border-style: solid;
     border-radius: 50px;
-    margin-left:550px; 
-    
+    margin-left:1500px; 
+    margin-right: 250px;
      background-image: linear-gradient(rgb(14, 14, 14), rgb(138, 9, 9))
     }
     
   
-}
+
 .user{
     width: 300px;
     height: 50px;
